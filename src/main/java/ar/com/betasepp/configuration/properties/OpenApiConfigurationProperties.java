@@ -1,12 +1,12 @@
 
-package com.betasepp.qr.configuration.properties;
+package ar.com.betasepp.configuration.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import lombok.Data;
 
 @Data
-@ConfigurationProperties(prefix = "com.betasepp.qr.swagger")
+@ConfigurationProperties(prefix = "ar.com.betasepp.swagger")
 public class OpenApiConfigurationProperties {
 
 	private Properties properties = new Properties();

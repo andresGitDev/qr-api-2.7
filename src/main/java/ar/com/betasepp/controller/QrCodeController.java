@@ -1,4 +1,4 @@
-package com.betasepp.qr.controller;
+package ar.com.betasepp.controller;
 
 import java.io.IOException;
 
@@ -15,11 +15,11 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.betasepp.qr.dto.QrCodeGenerationRequestDto;
-import com.betasepp.qr.service.QrCodeService;
 import com.google.zxing.NotFoundException;
 import com.google.zxing.WriterException;
 
+import ar.com.betasepp.dto.QrCodeGenerationRequestDto;
+import ar.com.betasepp.service.QrCodeService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import lombok.AllArgsConstructor;

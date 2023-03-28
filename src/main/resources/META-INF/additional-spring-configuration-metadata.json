@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "ar.com.betasepp.swagger.properties.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.contact.email'"
+  },
+  {
+    "name": "ar.com.betasepp.swagger.properties.contact.url",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.contact.url'"
+  },
+  {
+    "name": "ar.com.betasepp.swagger.properties.contact.name",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.contact.name'"
+  },
+  {
+    "name": "ar.com.betasepp.swagger.properties.api-version",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.api-version'"
+  },
+  {
+    "name": "ar.com.betasepp.swagger.properties.description",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.description'"
+  },
+  {
+    "name": "ar.com.betasepp.swagger.properties.title",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.title'"
+  },
+  {
+    "name": "ar.com.betasepp.swagger.properties.title",
+    "type": "java.lang.String",
+    "description": "A description for 'ar.com.betasepp.swagger.properties.title'"
+  }
+]}

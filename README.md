@@ -29,5 +29,6 @@ server port is configured to 9090 which can be changed in application.properties
 Go to the below url to view swagger-ui (API docs)
 
 ```
-http://localhost:9090/swagger-ui.html
+http://localhost:9090/qr-api/swagger-ui.html
+http://testing.betasepp.com.ar:9110/qr-api/swagger-ui.html
 ```

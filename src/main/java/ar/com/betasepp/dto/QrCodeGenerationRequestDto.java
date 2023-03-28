@@ -1,4 +1,4 @@
-package com.betasepp.qr.dto;
+package ar.com.betasepp.dto;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;

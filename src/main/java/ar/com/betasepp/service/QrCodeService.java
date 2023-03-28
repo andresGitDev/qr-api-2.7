@@ -1,4 +1,4 @@
-package com.betasepp.qr.service;
+package ar.com.betasepp.service;
 
 import java.awt.image.BufferedImage;
 import java.io.BufferedOutputStream;
@@ -12,7 +12,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.betasepp.qr.dto.QrCodeGenerationRequestDto;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.BinaryBitmap;
@@ -27,6 +26,7 @@ import com.google.zxing.common.BitMatrix;
 import com.google.zxing.common.HybridBinarizer;
 import com.google.zxing.qrcode.QRCodeWriter;
 
+import ar.com.betasepp.dto.QrCodeGenerationRequestDto;
 import lombok.var;
 
 @Service

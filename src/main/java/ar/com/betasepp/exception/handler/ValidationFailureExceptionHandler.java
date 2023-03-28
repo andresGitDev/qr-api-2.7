@@ -1,4 +1,4 @@
-package com.betasepp.qr.exception.handler;
+package ar.com.betasepp.exception.handler;
 
 import java.time.LocalDateTime;
 import java.util.List;
